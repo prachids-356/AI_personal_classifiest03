@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pillow
+scikit-learn
+joblib
+torch
+transformers
+pyyaml
+roboflow

@@ -1,0 +1,12 @@
+pandas
+numpy
+pillow
+scikit-learn
+joblib
+torch
+transformers
+pyyaml
+roboflow
+fastapi
+uvicorn[standard]
+python-multipart
